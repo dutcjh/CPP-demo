@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1522918331 source:d:\cfile\chaintable\main.cpp
+	<iostream>
+	<string>
+	"LinkList.h"
+
+1522918027 d:\cfile\chaintable\linklist.h
+	<iostream>
+

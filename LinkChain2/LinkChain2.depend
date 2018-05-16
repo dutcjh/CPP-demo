@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523080998 source:d:\cfile\linkchain2\main.cpp
+	<iostream>
+	<string>
+	"LinkQueue.h"
+
+1523081028 d:\cfile\linkchain2\linkqueue.h
+	"CircleList.h"
+
+1523029470 d:\cfile\linkchain2\circlelist.h
+	<iostream>
+
