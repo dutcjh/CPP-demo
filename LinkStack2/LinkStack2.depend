@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1523081754 source:d:\cfile\linkstack2\main.cpp
+	<iostream>
+	<string>
+	"LinkStack.h"
+
+1523082469 d:\cfile\_header\linkstack.h
+	"LinkList.h"
+
+1522996875 d:\cfile\_header\linklist.h
+	<iostream>
+
