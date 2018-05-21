@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1523190249 source:d:\cfile\bitreelist\main.cpp
+	<iostream>
+	"BiTreeList.h"
+
+1523192526 d:\cfile\bitreelist\bitreelist.h
+	<iostream>
+	"LinkQueue.h"
+
+1523079813 d:\cfile\_header\linkqueue.h
+	"CircleList.h"
+
+1523029470 d:\cfile\_header\circlelist.h
+	<iostream>
+
